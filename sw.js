@@ -1,7 +1,7 @@
 // Service worker - Pruebas y Ensayos ETED
 // Al publicar una version nueva de index.html, cambia CACHE (p. ej. v49) para
 // forzar la renovacion en los celulares.
-var CACHE = 'eted-app-v50';
+var CACHE = 'eted-app-v51';
 
 var PRECACHE = [
   './',
