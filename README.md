@@ -8,7 +8,7 @@ Se publica con GitHub Pages y se puede instalar en el celular. Después de abrir
 
 | Archivo | Para qué sirve |
 |---|---|
-| `index.html` | La app completa (v56) |
+| `index.html` | La app completa (v57) |
 | `manifest.webmanifest` | Nombre, colores e íconos para instalarla como app |
 | `sw.js` | Guarda la app en el teléfono para usarla sin conexión |
 | `icons/` | Íconos PNG (Android, iPhone, escritorio) |
