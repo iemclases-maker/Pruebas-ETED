@@ -8,13 +8,13 @@ Se publica con GitHub Pages y se puede instalar en el celular. Después de abrir
 
 | Archivo | Para qué sirve |
 |---|---|
-| `index.html` | La app completa (v55) |
+| `index.html` | La app completa (v56) |
 | `manifest.webmanifest` | Nombre, colores e íconos para instalarla como app |
 | `sw.js` | Guarda la app en el teléfono para usarla sin conexión |
 | `icons/` | Íconos PNG (Android, iPhone, escritorio) |
 | `.nojekyll` | Le indica a GitHub Pages que publique los archivos tal cual |
 
-El backend (Google Apps Script v30) no va en este repositorio. Se mantiene en Apps Script.
+El backend (Google Apps Script v31) no va en este repositorio. Se mantiene en Apps Script.
 
 ## Publicar una versión nueva
 
